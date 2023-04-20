@@ -1,0 +1,7 @@
+import pyautogui
+import time
+time.sleep(4)
+text = "Spam"
+for _ in range(0,100):
+ pyautogui.typewrite("YOURE HACKED BY V42 CATCH ME IF YOU CAN")
+ pyautogui.press('enter')
